@@ -2,10 +2,10 @@
 title: Phil Artmann
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  Phil Artmann's website linking to all his projects.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: rhetoric and communications trainer, german linguistic graduate, postgrad student (speech communication and rhetoric), media-it graduate, developer, geek, podcaster, apple enthusiast, linux lover, early adopter, privacy advocate, crypto nerd, never-ending learner, book worm, photographer, comedian & musician. language builds reality. let's change the world.
 
 # Add your social links
 social:
@@ -19,8 +19,22 @@ social:
     url: https://open.spotify.com/artist/233R46NbvEKc9uY3S29UuH?si=g_ToWSvySaKW0azmoc5-hw
   - platform: story podcast
     url: https://nachtschatten-podcast.de
+  - platform: twitter
+    url: https://twitter.com/artphil_
+  - platform: instagram
+    url: https://www.instagram.com/artphil/
+  - platform: github
+    url: https://github.com/PilleA
+  - platform: gitlab
+    url: https://gitlab.com/PilleA
+  - platform: bitcoin tip jar
+    url: bitcoin:bc1q3ewfuece2pk9crawvjq3qq4dthmkwcet6fanx7?message=philartmann&time=1628268032
   - platform: cv
     url: assets/git_cheat_sheet.pdf
+  - platform: gpg key
+    url: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x65262e0498609997d581fd8768ca52c1821757d4
+  - platform: contact
+    url: mailto:p.artmann@mailbox.org
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
