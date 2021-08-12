@@ -38,7 +38,7 @@ social:
 
 # General settings
 url: https://philartmann.de
-# baseurl: "/uni"
+  # baseurl: "/docs"
 markdown: kramdown
 sharing_image: share.jpg
   # google_analytics: "UA-58263416-1" # google analytics tracking
