@@ -37,7 +37,7 @@ social:
     url: mailto:p.artmann@mailbox.org
 
 # General settings
-# url: http://brianmaierjr.github.com/uni
+url: https://philartmann.de
 # baseurl: "/uni"
 markdown: kramdown
 sharing_image: share.jpg
