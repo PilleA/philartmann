@@ -19,6 +19,8 @@ social:
     url: https://open.spotify.com/artist/233R46NbvEKc9uY3S29UuH?si=g_ToWSvySaKW0azmoc5-hw
   - platform: story podcast
     url: https://nachtschatten-podcast.de
+  - platform: linkedin
+    url: https://www.linkedin.com/in/philipp-b-n-artmann-540317155/
   - platform: twitter
     url: https://twitter.com/artphil_
   - platform: instagram
@@ -29,8 +31,8 @@ social:
     url: https://gitlab.com/PilleA
   - platform: bitcoin tip jar
     url: bitcoin:bc1q3ewfuece2pk9crawvjq3qq4dthmkwcet6fanx7?message=philartmann&time=1628268032
-  - platform: cv
-    url: a
+  - platform: cv (german)
+    url: assets/artmann_online.pdf
   - platform: gpg key
     url: https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x65262e0498609997d581fd8768ca52c1821757d4
   - platform: contact
