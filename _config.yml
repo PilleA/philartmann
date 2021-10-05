@@ -30,7 +30,7 @@ social:
   - platform: gitlab
     url: https://gitlab.com/PilleA
   - platform: bitcoin tip jar
-    url: bitcoin:bc1q3ewfuece2pk9crawvjq3qq4dthmkwcet6fanx7?message=philartmann&time=1628268032
+    url: bitcoin:bc1qh792vzvh67pneye9hrq9yxnnrv4kw2y4dl8wd9?message=philartmann&time=1628268032
   - platform: cv (german)
     url: assets/artmann_online.pdf
   - platform: gpg key
